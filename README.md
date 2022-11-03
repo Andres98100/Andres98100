@@ -1,5 +1,12 @@
 # Hi there 👋
 
+### 👨🏻‍💻 &nbsp;About Me
+
+💡 &nbsp; I like to explore new technologies and develop software solutions.\
+🎓 &nbsp;I'm currently studying software development in holberton school.\
+🌱 &nbsp;I'm on track for learning more about new technologies.\
+✍️ &nbsp;In my free time, I dedicate to learning web design and development.
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
