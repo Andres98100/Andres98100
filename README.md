@@ -13,7 +13,7 @@
 
 <p align="center">
 <a href="https://github.com/Andres98100">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Andres98100&show_icons=true&theme=tokyonight"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Andres98100&show_icons=true&theme=tokyonight"/>
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andres98100&theme=tokyonight"/>
   <img height="307" src="https://activity-graph.herokuapp.com/graph?username=Andres98100&&theme=tokyo-night"/>
 </a>
