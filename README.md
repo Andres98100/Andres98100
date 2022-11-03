@@ -1,13 +1,13 @@
-<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Andres Solarte</h3>
+<h1 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Andres Solarte</h1>
 
-### 👨🏻‍💻 &nbsp;About Me
+## 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm currently studying software development in holberton school.\
 🌱 &nbsp;I'm on track for learning more about new technologies.\
 ✍️ &nbsp;In my free time, I dedicate to learning web design and development.
 
-### 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
