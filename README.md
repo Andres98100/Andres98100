@@ -2,10 +2,13 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
+<p align="center"> I am a software developer, I am passionate about learning new technologies and taking on challenges for my professional growth </p>
+
 💡 &nbsp; I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm currently studying software development in holberton school.\
 🌱 &nbsp;I'm on track for learning more about new technologies.\
-✍️ &nbsp;In my free time, I dedicate to learning web design and development.
+✍️ &nbsp;In my free time, I dedicate to learning web design and development.\
+📫 &nbsp;How to contact me: andressolarte580@gmail.com.
 
 ## 🛠 &nbsp;Tech Stack
 
