@@ -10,7 +10,7 @@
 ✍️ &nbsp;In my free time, I dedicate to learning web design and development.\
 📫 &nbsp;How to contact me: andressolarte580@gmail.com.
 
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Skills
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
